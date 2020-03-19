@@ -1,0 +1,85 @@
+body {
+  font-size: 16px;
+  background-color: #e7b2a5;
+  color: #30475e;
+}
+
+h1 {
+  font-size: 2em;
+  line-height: 2em;
+}
+
+.author{
+  line-height: 2em;
+}
+
+p {
+  line-height: 1.7em;
+}
+
+figcaption {
+  line-height: 1.5em;
+}
+
+h3 {
+  font-size: 1.2em;
+  line-height: 1.7em;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover{
+  color: #ba6b57;
+}
+
+
+nav {
+  background-color: rgba(0,0,0,.5);
+  float: left;
+  position: fixed;
+  width: 100%;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  width: 70%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
